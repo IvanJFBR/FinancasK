@@ -1,6 +1,6 @@
 # FinancasK
 
-###Projeto Android focado para o aprendizado em Kotlin
+### Projeto Android focado para o aprendizado em Kotlin
 
 Este projeto é um segmento do curso de Kotlin ensinado na plataforma de cursos online Alura.
 
